@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24715" started-at="2021-07-16T19:15:33 IST" finished-at="2021-07-16T19:15:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24715" started-at="2021-07-16T19:15:33 IST" finished-at="2021-07-16T19:15:58 IST">
+      <class name="test.ProductSelectionTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.ProductSelectionTest@87f383f]" name="setup" is-config="true" duration-ms="22618" started-at="2021-07-16T19:15:33 IST" finished-at="2021-07-16T19:15:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginSwaglab()[pri:0, instance:test.ProductSelectionTest@87f383f]" name="loginSwaglab" duration-ms="1228" started-at="2021-07-16T19:15:56 IST" finished-at="2021-07-16T19:15:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSwaglab -->
+        <test-method status="PASS" signature="selectProduct()[pri:0, instance:test.ProductSelectionTest@87f383f]" name="selectProduct" duration-ms="340" started-at="2021-07-16T19:15:57 IST" finished-at="2021-07-16T19:15:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectProduct -->
+        <test-method status="PASS" signature="verifyProduct()[pri:0, instance:test.ProductSelectionTest@87f383f]" name="verifyProduct" duration-ms="151" started-at="2021-07-16T19:15:57 IST" finished-at="2021-07-16T19:15:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProduct -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:test.ProductSelectionTest@87f383f]" name="TearDown" is-config="true" duration-ms="319" started-at="2021-07-16T19:15:57 IST" finished-at="2021-07-16T19:15:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- test.ProductSelectionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
